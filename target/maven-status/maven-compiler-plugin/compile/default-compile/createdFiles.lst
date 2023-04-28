@@ -1,0 +1,4 @@
+com\mycompany\observer\DesignPatternObserver.class
+com\mycompany\observer\Observer.class
+model\Gerente.class
+model\Estoque.class
